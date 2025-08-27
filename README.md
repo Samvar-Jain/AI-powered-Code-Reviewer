@@ -2,8 +2,6 @@
 
 An intelligent, real-time code review tool powered by Google Gemini API. Built with React and Node.js, this app analyzes JavaScript code and provides high-quality, professional review feedback with suggestions, improvements, and best practices.
 
-![Demo Screenshot](screenshot.png) <!-- Replace with your own image path if needed -->
-
 ---
 
 ## 📌 Features
